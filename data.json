@@ -3,5 +3,15 @@
     "file": "experiments/example.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
-  }
+  },
+
+
+{
+  "file": "experiments/Schotter.js",
+  "name": "Schotter (Gravel) Recreation",
+  "description": "A p5.js recreation of Georg Nees Schotter* (1968), showing a grid of squares that progressively gain random shifts and rotations to illustrate the transition from order to disorder."
+}
+
+
+
 ]
