@@ -4,14 +4,29 @@
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
-
-
-{
-  "file": "experiments/Schotter.js",
-  "name": "Schotter (Gravel) Recreation",
-  "description": "A p5.js recreation of Georg Nees Schotter* (1968), showing a grid of squares that progressively gain random shifts and rotations to illustrate the transition from order to disorder."
-}
-
-
-
+  {
+    "file": "experiments/Schotter.js",
+    "name": "Schotter (Gravel) Recreation",
+    "description": "A p5.js recreation of Georg Nees Schotter (1968), showing a grid of squares that progressively gain random shifts and rotations to illustrate the transition from order to disorder."
+  },
+  {
+    "file": "experiments/walkthrough_original.js",
+    "name": "Walk-Through Raster (Recreation)",
+    "description": "my version of Nake's raster, just a grid of | - and blanks with some randomness. kinda shows how order breaks into mess."
+  },
+  {
+    "file": "experiments/walkthrough_AutonomousAgents.js",
+    "name": "Walkers / Autonomous Agents",
+    "description": "agents (dots) walk around using noise and leave trails. looks like the raster is moving instead of static."
+  },
+  {
+    "file": "experiments/walkthrough_particles.js",
+    "name": "Particle Flow Field",
+    "description": "a bunch of particles with vel+acc moving in a noise field, makes swirly lines, more chaotic than walkers."
+  },
+  {
+    "file": "experiments/Tone.js",
+    "name": "Walkers with Tone.js",
+    "description": "same walkers but now with sound using tone.js. plays random notes from a scale with reverb when they move. starts on click."
+  }
 ]
