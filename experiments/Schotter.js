@@ -29,13 +29,12 @@ function draw() {
       let dx = random(-10, 10) * chaos;
       let dy = random(-10, 10) * chaos;
 
-
+      
       translate(dx, dy);
       rotate(rot);
       rect(0, 0, 30, 30);
 
       pop();
-      
     }
   }
 }
