@@ -1,13 +1,19 @@
 [
-  {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
-  },
+
   {
     "file": "experiments/Schotter.js",
     "name": "Schotter (Gravel) Recreation",
     "description": "A p5.js recreation of Georg Nees Schotter (1968), showing a grid of squares that progressively gain random shifts and rotations to illustrate the transition from order to disorder."
+  },
+    {
+    "file": "experiments/SchotterV2.js",
+    "name": "Structured Chance",
+    "description": "Structured Chance is a faithful homage to Georg Nees’ generative art classic 'Schotter'. The artwork visualizes the gradual breakdown of order through randomness"
+  },
+    {
+    "file": "experiments/SchotterV3.js",
+    "name": "Fluid Disorder",
+    "description": "Fluid Disorder is a modern reinterpretation of Georg Nees’ 'Schotter'. Instead of rigid geometric randomness, this piece explores a natural, flowing transformation from order to chaos using a flow field. "
   },
   {
     "file": "experiments/walkthrough_original.js",
@@ -28,5 +34,11 @@
     "file": "experiments/Tone.js",
     "name": "Walkers with Tone.js",
     "description": "same walkers but now with sound using tone.js. plays random notes from a scale with reverb when they move. starts on click."
-  }
+  },
+  {
+  "file": "experiments/raster_variant.js",
+  "name": "Structured Pulse",
+  "description": "Structured Pulse reimagines Frieder Nake’s 'Raster' through color, geometry, and rhythm. It blends typographic marks with abstract shapes, transforming order into expressive visual energy across the grid."
+}
+
 ]
